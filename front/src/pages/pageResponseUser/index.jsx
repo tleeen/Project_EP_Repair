@@ -1,0 +1,1 @@
+export { PageResponseUser } from './ui';

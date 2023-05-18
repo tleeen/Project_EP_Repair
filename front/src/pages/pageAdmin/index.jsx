@@ -1,0 +1,1 @@
+export { PageAdmin } from './ui';
