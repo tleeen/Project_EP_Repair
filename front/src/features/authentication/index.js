@@ -1,0 +1,1 @@
+export {isAuthSlice, setIsAuth} from "./store"
